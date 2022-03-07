@@ -1,1 +1,1 @@
-To print hello world
+This is a directory about the navigations in shell.
